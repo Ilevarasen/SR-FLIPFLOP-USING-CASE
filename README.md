@@ -2,8 +2,7 @@
 
 ### REG NO:24900688
 
-### EXP-6:SERIAL IN SERIAL OUT SHIFTREGISTER
-
+### EXP-6:Implementation of SR flipflop using verilog
 ### AIM:
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
